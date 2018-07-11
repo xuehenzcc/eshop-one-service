@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: eshop-one-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: c0z00k8
+Implementation-Vendor-Id: com.zcc
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/eshop-one-se
+ rvice/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
